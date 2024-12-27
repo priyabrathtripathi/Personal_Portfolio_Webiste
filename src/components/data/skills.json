@@ -30,5 +30,9 @@
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MsSql",
+    "imageSrc": "skills/mssql.webp"
   }
 ]
